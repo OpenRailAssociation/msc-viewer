@@ -1,7 +1,7 @@
 publiccodeYmlVersion: "0.4"
 
 name: MscViewer for Nokia MSC/MSS
-url: "https://github.com/OpenRailAssociation/my-project"
+url: "https://github.com/OpenRailAssociation/msc-viewer"
 
 developmentStatus: stable
 
