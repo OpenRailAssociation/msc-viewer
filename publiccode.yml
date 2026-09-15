@@ -1,0 +1,21 @@
+publiccodeYmlVersion: "0.4"
+
+name: MscViewer for Nokia MSC/MSS
+url: "https://github.com/OpenRailAssociation/my-project"
+
+developmentStatus: stable
+
+softwareType: "standalone/web"
+
+description:
+  en:
+    shortDescription: >
+      Manage Nokia MSC/MSS configurations through a modern web UI with AI-assisted analysis and automation.                                   
+
+legal:
+  license: MIT License
+
+localisation:
+  localisationReady: false
+  availableLanguages:
+    - en
